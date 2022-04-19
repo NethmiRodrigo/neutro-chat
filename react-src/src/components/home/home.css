@@ -1,0 +1,8 @@
+.home-container {
+  min-height: 100vh;
+}
+
+.sidebar {
+  background-color: black;
+  color: white;
+}
