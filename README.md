@@ -1,5 +1,6 @@
 # neutralinojs-react
-A simple React.js template for building Neutralinojs apps
+
+A simple React.js template for building Neutralinojs apps using the [guide](https://github.com/codezri/neutralinojs-react) in the official documentation.
 
 ## How to install
 
@@ -30,7 +31,7 @@ Start the development server
 npm start
 ```
 
-Start the Neutralinojs app
+In another terminal, start the Neutralinojs app from the project root (in this case, from the testapp folder).
 
 ```
 cd ..
