@@ -1,6 +1,6 @@
-# neutralinojs-react
+# neutro-chat
 
-A simple React.js template for building Neutralinojs apps using the [guide](https://github.com/codezri/neutralinojs-react) in the official documentation.
+A simple React.js chat application using Neutralinojs. Following the [guide](https://github.com/codezri/neutralinojs-react) in the official documentation.
 
 ## How to install
 
